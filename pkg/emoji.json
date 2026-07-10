@@ -1,5 +1,5 @@
 {
-  "emotes": [
+  "emoji": [
     { "token": "AAAA", "file": "AAAA.gif", "aliases": [] },
     { "token": "AINTNOWAY", "file": "AINTNOWAY.gif", "aliases": [] },
     { "token": "AYOOO", "file": "AYOOO.gif", "aliases": [] },
@@ -34,7 +34,7 @@
     { "token": "Countdown", "file": "Countdown.gif", "aliases": [] },
     { "token": "CrabPls", "file": "CrabPls.gif", "aliases": [] },
     { "token": "DIESOFR2D2", "file": "DIESOFR2D2.gif", "aliases": [] },
-    { "token": "D_", "file": "D_.png", "aliases": ["D:"] },
+    { "token": "D_", "file": "D_.png", "aliases": [], "literals": ["D:"] },
     { "token": "Dance", "file": "Dance.gif", "aliases": [] },
     { "token": "DonoWall", "file": "DonoWall.gif", "aliases": [] },
     { "token": "EDM", "file": "EDM.gif", "aliases": [] },
@@ -150,7 +150,7 @@
     { "token": "WideRaveTime", "file": "WideRaveTime.gif", "aliases": [] },
     { "token": "XINEMA", "file": "XINEMA.png", "aliases": [] },
     { "token": "YIPPEE", "file": "YIPPEE.gif", "aliases": [] },
-    { "token": "_D", "file": "_D.png", "aliases": [":D"] },
+    { "token": "_D", "file": "_D.png", "aliases": [], "literals": [":D"] },
     { "token": "???", "file": "___.png", "aliases": [] },
     { "token": "ahmadmuhsin", "file": "ahmadmuhsin.gif", "aliases": [] },
     { "token": "awaree", "file": "awaree.gif", "aliases": [] },
@@ -219,7 +219,7 @@
     { "token": "nope", "file": "nope.gif", "aliases": [] },
     { "token": "notee", "file": "notee.gif", "aliases": [] },
     { "token": "nuhuh", "file": "nuhuh.gif", "aliases": [] },
-    { "token": "o7", "file": "o7.png", "aliases": [] },
+    { "token": "o7", "file": "o7.png", "aliases": [], "literals": ["o7"] },
     { "token": "oh", "file": "oh.png", "aliases": [] },
     { "token": "oh2", "file": "oh2.png", "aliases": [] },
     { "token": "oh3", "file": "oh3.png", "aliases": [] },
